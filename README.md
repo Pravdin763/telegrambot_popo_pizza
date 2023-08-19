@@ -22,8 +22,8 @@
 
 - Фильтр от матов
 
-![Image alt](https://github.com/Pravdin763/telegrambot_popo_pizza/blob/main/images/7.jpeg)
 ![Image alt](https://github.com/Pravdin763/telegrambot_popo_pizza/blob/main/images/8.jpeg)
+![Image alt](https://github.com/Pravdin763/telegrambot_popo_pizza/blob/main/images/7.jpeg)
 ![Image alt](https://github.com/Pravdin763/telegrambot_popo_pizza/blob/main/images/4.jpeg)
 ![Image alt](https://github.com/Pravdin763/telegrambot_popo_pizza/blob/main/images/3.jpeg)
 ![Image alt](https://github.com/Pravdin763/telegrambot_popo_pizza/blob/main/images/2.jpeg)
